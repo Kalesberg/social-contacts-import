@@ -1,0 +1,9 @@
+{
+  "require": {
+	"rapidwebltd/php-google-contacts-v3-api": "^1.3",
+    "facebook/graph-sdk": "^5.4"
+  },
+  "require-dev": {
+    "heroku/heroku-buildpack-php": "*"
+  }
+}
